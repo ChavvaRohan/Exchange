@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118256268955",
+    "project_id": "book-exchange-app-42a1e",
+    "storage_bucket": "book-exchange-app-42a1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118256268955:android:6dbcf51a2c77933307f83e",
+        "android_client_info": {
+          "package_name": "com.example.exchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHo8H5jMXwY8Eja6dPpUvGIHCO7arrSC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
